@@ -1,7 +1,7 @@
 ## Description
 'Hello-world' is an exercise from GitHub website to practice GitHub flow. It's also my first repository.
 
-Now, I'm adding more text.
+
 
 ## Image
 
@@ -17,3 +17,7 @@ Now, I'm adding more text.
 ## List
 - Item1
 - Item 2
+
+## For local repository
+
+![alt text](image-1.png)
