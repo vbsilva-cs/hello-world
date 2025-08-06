@@ -40,17 +40,17 @@ Pasta ou 'folder': Sinônimo de diretório, frequentemente usado em sistemas ope
 ### Etapas realizadas
 
 No GitHub, criou-se um novo repositório:
-	- nome: "hello-world"
-	- descrição: "Means of practice: GitHub Flow"
-	- visibilidade: "Público"
+- nome: "hello-world"
+- descrição: "Means of practice: GitHub Flow"
+- visibilidade: "Público"
 
 No terminal Git:
-	- criou-se um repositório local
-	- criou-se o arquivo 'README.md'
-	- foram feitas as alterações do arquivo 'README.md' e seu acometimento
-	- em seguida, o comando de 'setup' para converter esse repositório local em 'branch' do repositório criado no site do GitHub
-	- seguiu-se com o 'Pull Request'
+- criou-se um repositório local
+- criou-se o arquivo 'README.md'
+- foram feitas as alterações do arquivo 'README.md' e seu acometimento
+- em seguida, o comando de 'setup' para converter esse repositório local em 'branch' do repositório criado no site do GitHub
+- seguiu-se com o 'Pull Request'
 
 Finalizando, no GitHub:
-	- abriu-se a 'Pull Request'
-	- mesclou-se, ou seja fez-se a 'merge' da ramificação ('Branch') no repositório ('main')
+- abriu-se a 'Pull Request'
+- mesclou-se, ou seja fez-se a 'merge' da ramificação ('Branch') no repositório ('main')
