@@ -1,6 +1,6 @@
 ## GitHub
 
-![alt text](image.png)
+![alt text](github-icon.png)
 
 
 # Título: hello world, criando o primeiro repositório
