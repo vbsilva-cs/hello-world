@@ -1,56 +1,37 @@
-## GitHub
 
-![alt text](github-icon.png)
+<div align="center">
 
+# 🎉 Congratulations vbsilva-cs! 🎉
 
-# Título: hello world, criando o primeiro repositório
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-## Objetivo: aprender sobre o fluxo de trabalho de pull requests do GitHub
+### 🌟 You've successfully completed the exercise! 🌟
 
-## Noções básicas
+## 🚀 Share Your Success!
 
-### Conceitos
+**Show off your new skills and inspire others!**
 
-Git é um sistema de controle de versionamento, isto é um sistema que monitora mudanças em arquivos ao longo do tempo.
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22GitHub%20Pages%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fvbsilva-cs%2Fskills-github-pages%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn%0A" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22GitHub%20Pages%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fvbsilva-cs%2Fskills-github-pages%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn%0A" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22GitHub%20Pages%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fvbsilva-cs%2Fskills-github-pages%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn%0A" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-GitHub é uma plataforma de armazenamento e gerenciamento de repositórios, servindo, por exemplo, como um portífolio de projetos para profissionais de tecnologia.
+### 🎯 What's Next?
+**Keep the momentum going!**
 
-Repositório: Local onde os arquivos são armazenados e monitorados, especialmente em sistemas de controle de versão como Git. 
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/vbsilva-cs/skills-github-pages/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://skills.github.com)
 
-Diretório: Subdivisão lógica de um sistema de arquivos, que permite o agrupamento de arquivos que se relacionam de alguma forma. 
+*There's no better way to learn than building things!* 🚀
 
-Pasta ou 'folder': Sinônimo de diretório, frequentemente usado em sistemas operacionais como Windows. 
+</div>
 
-'README.md' é um arquivo de texto no formado .md ou 'markdown', no qual são geralmente descritos o propósito do projeto e suas especificações.
+---
 
-'Branch' é uma alusão a ramificação de uma planta em galhos. Isso porque, alterações, deleções ou atualizações que são feitas dentro uma cópia do repositório. Isto é, o repositório original permance o mesmo, enquanto a cópia (inicialmente idêntica) é modificada (tomando um novo caminho, ou seja ramifica-se).
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
-'Commit' ou acometimento é a aplicação das mudanças feitas na 'Branch' que está sendo trabalhada, geralmente uma cópia da 'Branch' principal ou 'main'. Cada acometimento deve vir seguido de uma mensagem que sintetiza de forma clara o que foi realizado.
-
-'Pull Request' - PR: requisição de mescla da 'Branch' trabalhada com a 'Branch' principal. A mescla ou 'merge' só ocorrerá depois de devidamente aceita pelo dono do repositório.
-
-
-### Ferramentas
-
-- Conta no site do GitHub;
-- Instalação do Git no desktop;
-- Foi instalado o Visual Studio Code.
-
-
-### Etapas realizadas
-
-No GitHub, criou-se um novo repositório:
-- nome: "hello-world"
-- descrição: "Means of practice: GitHub Flow"
-- visibilidade: "Público"
-
-No terminal Git:
-- criou-se um repositório local
-- criou-se o arquivo 'README.md'
-- foram feitas as alterações do arquivo 'README.md' e seu acometimento
-- em seguida, o comando de 'setup' para converter esse repositório local em 'branch' do repositório criado no site do GitHub
-- seguiu-se com o 'Pull Request'
-
-Finalizando, no GitHub:
-- abriu-se a 'Pull Request'
-- mesclou-se, ou seja fez-se a 'merge' da ramificação ('Branch') no repositório ('main')
